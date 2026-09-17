@@ -10,10 +10,9 @@
 
 - 🎓 B.Tech in Computer Science, Indira Gandhi Delhi Technical University for Women (2022–2026)
 - 🔬 Research Intern at Delhi Technological University — built **MultiCybGAT**, a Graph Attention Network for cyberbullying detection, co-authored a paper currently under peer review
-- 🛠 Building full-stack products with **Next.js, React, Node.js/Express, FastAPI & Flask**
+- 🛠 Building full-stack products
 - 🧠 Exploring **Machine Learning, Deep Learning & NLP**
 - 🏆 Solved 600+ DSA problems across LeetCode, InterviewBit & GeeksforGeeks
-- 🌟 KK Gautam Scholar (2025) • Top 10% contributor, Snowscript Winter of Code '25
 - 📩 Reach me at: **avikag03@gmail.com**
 
 ---
