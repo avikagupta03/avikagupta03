@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Avika Gupta 👋</h1>
 
 <p align="center">
-🎓 Final Year B.Tech CS Student @ IGDTUW • 🔬 Research Intern @ DTU • 🌐 Full-Stack Developer • 🤖 ML/DL Enthusiast
+🎓 B.Tech CS Student Graduate@ IGDTUW • 🌐 Full-Stack Developer • 🤖 ML/DL Enthusiast
 </p>
 
 ---
